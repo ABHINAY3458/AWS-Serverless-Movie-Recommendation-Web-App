@@ -1,0 +1,27 @@
+<!DOCTYPE html>
+<html>
+<head>
+    <title>Movie Recommendation App</title>
+</head>
+<body>
+    <h1>Welcome to Movie Recommendation App</h1>
+    <button onclick="getMovies()">Load Movies</button>
+
+    <ul id="movies"></ul>
+
+    <script>
+        async function getMovies() {
+            const response = await fetch('YOUR_API_GATEWAY_URL');
+            const data = await response.json();
+
+            let output = '';
+
+            data.forEach(movie => {
+                output += `<li>${movie.name}</li>`;
+            });
+
+            document.getElementById('movies').innerHTML = output;
+        }
+    </script>
+</body>
+</html>
