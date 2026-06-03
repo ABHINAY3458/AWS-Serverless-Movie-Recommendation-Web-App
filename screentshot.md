@@ -10,6 +10,9 @@
                                              **CloudWatch Dashboard**
                                              
 <img width="1328" height="596" alt="Image" src="https://github.com/user-attachments/assets/e05af1c8-b0d5-4c0f-86b1-b272ce2f5c34" />
+
+                                                      **Cost**
+                                                      
 <img width="1331" height="596" alt="Image" src="https://github.com/user-attachments/assets/2e71ef5c-adc5-4e3d-933e-a2c49c8176ca" />
 <img width="1345" height="609" alt="Image" src="https://github.com/user-attachments/assets/8aa9d105-8669-40dd-9a37-ac542e022321" />
 <img width="1353" height="417" alt="Image" src="https://github.com/user-attachments/assets/2d310c12-302c-48ef-a919-3502388f4f3f" />
