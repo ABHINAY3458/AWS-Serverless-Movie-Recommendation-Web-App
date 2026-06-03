@@ -1,10 +1,14 @@
-S3 Bucket
+                                               ** S3 Bucket**
+                                               
 <img width="1341" height="612" alt="Image" src="https://github.com/user-attachments/assets/9bc5c326-2d27-4559-ba09-29274de1c2f2" />
 <img width="1340" height="615" alt="Image" src="https://github.com/user-attachments/assets/37c72373-32f6-4ddb-a708-650116f645b7" />
 <img width="1351" height="612" alt="Image" src="https://github.com/user-attachments/assets/0e08b38f-3fff-4386-becb-0d56cd3b75cd" />
 
-API Gateway
+                                                **API Gateway**
 <img width="1317" height="596" alt="Image" src="https://github.com/user-attachments/assets/5f6c6f68-deb1-4902-b069-31b91f2a4834" />
+
+                                             **CloudWatch Dashboard**
+                                             
 <img width="1328" height="596" alt="Image" src="https://github.com/user-attachments/assets/e05af1c8-b0d5-4c0f-86b1-b272ce2f5c34" />
 <img width="1331" height="596" alt="Image" src="https://github.com/user-attachments/assets/2e71ef5c-adc5-4e3d-933e-a2c49c8176ca" />
 <img width="1345" height="609" alt="Image" src="https://github.com/user-attachments/assets/8aa9d105-8669-40dd-9a37-ac542e022321" />
