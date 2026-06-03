@@ -24,10 +24,10 @@
 
 
                                                      **Dynmodb**
-                                                     <img width="1344" height="632" alt="Image" src="https://github.com/user-attachments/assets/abc798c3-dcd7-42fe-87d2-962568b8a300" />
+ <img width="1344" height="632" alt="Image" src="https://github.com/user-attachments/assets/abc798c3-dcd7-42fe-87d2-962568b8a300" />
+<img width="1353" height="417" alt="Image" src="https://github.com/user-attachments/assets/2d310c12-302c-48ef-a919-3502388f4f3f" />
 
 <img width="1345" height="609" alt="Image" src="https://github.com/user-attachments/assets/8aa9d105-8669-40dd-9a37-ac542e022321" />
-<img width="1353" height="417" alt="Image" src="https://github.com/user-attachments/assets/2d310c12-302c-48ef-a919-3502388f4f3f" />
 
 
 
