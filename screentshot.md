@@ -10,21 +10,24 @@
 
 
 
+
+                                                  **Lambada**
+<img width="1355" height="628" alt="Image" src="https://github.com/user-attachments/assets/a4251969-dc23-406f-ad14-2b949a8248a9" />
+
                                                   
                                                       **IAM**
 <img width="1340" height="591" alt="Image" src="https://github.com/user-attachments/assets/f15012aa-bc7c-4ea5-89f0-ff4e41c2cb52" />
 
                                                     
-                                                    **Lambada**
-<img width="1355" height="628" alt="Image" src="https://github.com/user-attachments/assets/a4251969-dc23-406f-ad14-2b949a8248a9" />
+                                   
 
 
 
                                                      **Dynmodb**
+                                                     <img width="1344" height="632" alt="Image" src="https://github.com/user-attachments/assets/abc798c3-dcd7-42fe-87d2-962568b8a300" />
+
 <img width="1345" height="609" alt="Image" src="https://github.com/user-attachments/assets/8aa9d105-8669-40dd-9a37-ac542e022321" />
 <img width="1353" height="417" alt="Image" src="https://github.com/user-attachments/assets/2d310c12-302c-48ef-a919-3502388f4f3f" />
-<img width="1363" height="573" alt="Image" src="https://github.com/user-attachments/assets/da18328b-7928-41d7-9778-34382cc9dd95" />
-<img width="1344" height="632" alt="Image" src="https://github.com/user-attachments/assets/abc798c3-dcd7-42fe-87d2-962568b8a300" />
 
 
 
