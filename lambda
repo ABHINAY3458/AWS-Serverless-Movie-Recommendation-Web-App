@@ -1,18 +1,31 @@
 
 import json
+import boto3
+from decimal import Decimal
 
+dynamodb = boto3.resource('dynamodb')
+
+movie_table = dynamodb.Table('Movie')
+user_table = dynamodb.Table('User')
+
+class DecimalEncoder(json.JSONEncoder):
+    def default(self, obj):
+        if isinstance(obj, Decimal):
+            return int(obj)
+        return super().default(obj)
 
 def lambda_handler(event, context):
-    movies = [
-        {"name": "KGF"},
-        {"name": "Pushpa"},
-        {"name": "Bahubali"}
-    ]
+
+    movies = movie_table.scan()['Items']
+    users = user_table.scan()['Items']
 
     return {
         'statusCode': 200,
         'headers': {
             'Access-Control-Allow-Origin': '*'
         },
-        'body': json.dumps(movies)
+        'body': json.dumps({
+            'movies': movies,
+            'users': users
+        }, cls=DecimalEncoder)
     }
