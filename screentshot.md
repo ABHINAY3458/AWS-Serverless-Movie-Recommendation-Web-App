@@ -1,8 +1,9 @@
                                                ** S3 Bucket**
   <img width="1335" height="608" alt="Image" src="https://github.com/user-attachments/assets/93eb096e-f395-4c0b-8633-9c653e03cca2" />                                      
 <img width="1341" height="612" alt="Image" src="https://github.com/user-attachments/assets/9bc5c326-2d27-4559-ba09-29274de1c2f2" />
-<img width="1340" height="615" alt="Image" src="https://github.com/user-attachments/assets/37c72373-32f6-4ddb-a708-650116f645b7" />
 <img width="1361" height="351" alt="Image" src="https://github.com/user-attachments/assets/39ba75a3-3e0f-443a-a747-8855a546b90c" />
+
+<img width="1340" height="615" alt="Image" src="https://github.com/user-attachments/assets/37c72373-32f6-4ddb-a708-650116f645b7" />
 
                                                 **API Gateway**
 <img width="1317" height="596" alt="Image" src="https://github.com/user-attachments/assets/5f6c6f68-deb1-4902-b069-31b91f2a4834" />
