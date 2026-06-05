@@ -27,77 +27,133 @@ User → S3 Website → API Gateway → Lambda → DynamoDB
 
 ## Setup Instructions
 
-Infrastructure as Code
 Step 1 – Create S3 Bucket
 
+
+
+
+
+
+
+
+
+
 Step 2 – Upload Website to S3
+
+
+
+
 Steps
-Open AWS S3
-Create bucket
-Enable static website hosting
-Upload index.html
-Make bucket objects public
+
+    1. Open AWS S3
+    2. Create bucket
+    3. Enable static website hosting
+    4. Upload index.html
+    5. Make bucket objects public
 Step 3 – Create DynamoDB Tables
+
+
+
 Table 1: Movies
+
 Attribute	Type
 movieId	String
 name	String
 category	String
+
 Table 2: Users
+
 Attribute	Type
 userId	String
 username	String
+
+
+
+
+
+
+
+
+
 Step 4 – Create Lambda Function
 
+
+
+
+
+
+
+
+
 Step 5 – Create API Gateway
-Steps
+
+
+
+
+Steps:
+
 Open API Gateway
 Create REST API
 Create GET method
 Connect Lambda function
 Enable CORS
 Deploy API
+
+
+
+
+
 Step 6 – Connect Frontend with API
+    1) Replace:
+    2) YOUR_API_GATEWAY_URL
+    3) with your deployed API endpoint in HTML file.
 
-Replace:
-
-YOUR_API_GATEWAY_URL
-
-with your deployed API endpoint.
 
 Step 7 – Configure IAM
 IAM Best Practices
-Use least privilege access
-Avoid root account usage
-Enable MFA
-Use IAM roles for Lambda
+
+    • Use least privilege access
+    • Avoid root account usage
+    • Enable MFA
+    • Use IAM roles for Lambda
+
 IAM Roles
+
+
+
+
+
+
+
+
+
 Lambda Role
-
 Permissions:
-
-CloudWatch Logs
-DynamoDB Access
+    • CloudWatch Logs
+    • DynamoDB Access
 S3 Role
-
 Permissions:
+    • Read static website files
 
-Read static website files
 Step 8 – Configure CloudWatch Monitoring
+
 Enable:
-Lambda logs
-API Gateway metrics
-Error tracking
+    • Lambda logs
+    • API Gateway metrics
+    • Error tracking
 Dashboard Metrics
-Request count
-Error rate
-Latency
+    • Request count
+    • Error rate
+    • Latency
+
 Step 9 – Configure Cost Alert
+
+
 Budget Setup
-Open AWS Billing Dashboard
-Create Budget
-Set threshold to $5
-Add email notification
+    1. Open AWS Billing Dashboard
+    2. Create Budget
+    3. Set threshold to $5
+    4. Add email notification
 
 
 
