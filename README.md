@@ -104,12 +104,14 @@ Deploy API
 
 
 Step 6 – Connect Frontend with API
-    1) Replace:
+
+    1) Replace
     2) YOUR_API_GATEWAY_URL
-    3) with your deployed API endpoint in HTML file.
+    3) with your deployed API endpoint in HTML file
 
 
 Step 7 – Configure IAM
+
 IAM Best Practices
 
     • Use least privilege access
@@ -128,10 +130,13 @@ IAM Roles
 
 
 Lambda Role
+
 Permissions:
     • CloudWatch Logs
     • DynamoDB Access
+    
 S3 Role
+
 Permissions:
     • Read static website files
 
@@ -141,6 +146,7 @@ Enable:
     • Lambda logs
     • API Gateway metrics
     • Error tracking
+    
 Dashboard Metrics
     • Request count
     • Error rate
