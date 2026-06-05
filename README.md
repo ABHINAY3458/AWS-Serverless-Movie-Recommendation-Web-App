@@ -94,7 +94,9 @@ username	String
 Step 4 – Create Lambda Function
 
 Open AWS Lambda
+
 Click Create Function
+
 Select Author from Scratch
 
 Enter:
@@ -102,7 +104,7 @@ Name
 Runtime
 
 
-After creating function Add Code and Deploy or Test it
+After creating function Add Code and Deploy or test it
 
 
 
