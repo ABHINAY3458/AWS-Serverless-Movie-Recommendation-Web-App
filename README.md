@@ -132,22 +132,26 @@ IAM Roles
 Lambda Role
 
 Permissions:
+
     • CloudWatch Logs
     • DynamoDB Access
     
 S3 Role
 
 Permissions:
+
     • Read static website files
 
 Step 8 – Configure CloudWatch Monitoring
 
 Enable:
+
     • Lambda logs
     • API Gateway metrics
     • Error tracking
     
 Dashboard Metrics
+
     • Request count
     • Error rate
     • Latency
@@ -156,6 +160,7 @@ Step 9 – Configure Cost Alert
 
 
 Budget Setup
+
     1. Open AWS Billing Dashboard
     2. Create Budget
     3. Set threshold to $5
