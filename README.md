@@ -29,7 +29,16 @@ User → S3 Website → API Gateway → Lambda → DynamoDB
 
 Step 1 – Create S3 Bucket
 
-
+Open AWS Console → Search S3 → Click Amazon S3
+Click Create Bucket
+Enter:
+Bucket Name
+Region
+Uncheck:
+Block all public access 
+Enable:
+Versioning 
+Click Create Bucket
 
 
 
